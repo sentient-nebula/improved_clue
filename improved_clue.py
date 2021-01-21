@@ -1,6 +1,5 @@
 #twitter bot
 
-from pandas import read_csv
 from random import randint
 import tweepy
 
