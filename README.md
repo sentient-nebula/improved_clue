@@ -18,4 +18,4 @@ The places are from a couple of webpages with lists of house-related vocabulary.
 
 The items are from the list of Wikipedia's List of 'How It's Made' episodes.
 
-The script is run on a schedule with cron on an AWS-EC2 instance running Amazon Linux.
+The script is run on a schedule with cron on an AWS-EC2 instance running Amazon Linux and uses the tweepy module to post.
