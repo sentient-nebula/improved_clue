@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+
+42 13 * * * source ~/clue_improved/env/bin/activate python && ~/clue_improved/scripts/improved_clue.py >> ~/clue_improved/logs/Python_log.log 2>&1
